@@ -27,8 +27,7 @@ The objective of this project is to analyze **UPI transactions** across differen
 ## Project Insights  
 - 📌 **The highest transaction volume** is observed in certain months, with clear seasonal trends.  
 - 📌 **Most transactions occur via Mobile devices**, followed by Tablets.  
-- 📌 **Most transactions occur by age group which is greater than age 35**  
-- 📌 **The most used payment method is UPI, with major transactions occurring through specific banks.**  
+- 📌 **Most transactions occur by age group which is greater than age 35**   
 - 📌 **Cities like Mumbai, Delhi, and Bangalore have the highest UPI transaction frequencies.**  
 
 ---
